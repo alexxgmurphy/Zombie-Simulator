@@ -1,0 +1,6 @@
+rotate,0
+attack
+rotate,0
+forward
+forward
+goto,1
